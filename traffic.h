@@ -10,7 +10,7 @@ SC_MODULE(Traffic) {
   SC_HAS_PROCESS(Traffic);
   Traffic(sc_module_name name);
 
-  void Traffic::car_arriving();
+  void car_arriving();
 };
 
 #endif // COUNTER_H

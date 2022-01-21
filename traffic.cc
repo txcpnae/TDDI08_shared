@@ -20,22 +20,22 @@ void Traffic::car_arriving()
     if(N)
     {
         if( light_W == false && light_E == false)
-        light_N = TRUE;
+        light_N = true;
     }
     else if(W)
     {
         if( light_N == false && light_S == false)
-        light_W = TRUE;
+        light_W = true;
     }
     else if(S)
     {
         if( light_W == false && light_E == false)
-        light_S = TRUE;
+        light_S = true;
     }
     else if(E)
     {
         if( light_N == false && light_S == false)
-        light_E = TRUE;
+        light_E = true;
     }
     else
     {

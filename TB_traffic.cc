@@ -1,6 +1,6 @@
 #include <cassert>
 #include <systemc.h>
-#include "counter.h"
+#include "traffic.h"
 
 int sc_main(int argc, char **argv)
 {
@@ -13,7 +13,7 @@ int sc_main(int argc, char **argv)
   sc_time sim_time(atof(argv[2]), SC_SEC);
 
   // Instantiate the module.
-  Counter c1("Counter_1", init_value);
+  //Counter c1("Counter_1", init_value);
 
   // Start the simulation.
   sc_start(sim_time);
