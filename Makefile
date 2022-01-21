@@ -2,7 +2,7 @@
 PROGRAM = traffic.x
 
 # The source files (*.cc)
-SRCS = traffic.cc TB_traffic.cc
+SRCS = traffic.cc TB_traffic.cc input_gen.cc
 
 ##################################
 ## DO NOT CHANGE ANYTHING BELOW ##
