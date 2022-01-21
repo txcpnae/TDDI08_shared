@@ -3,14 +3,14 @@
 
 #include <systemc.h>
 
-SC_MODULE(Counter) {
-  int value;
-  sc_event count_event;
+SC_MODULE(Traffic) {
+  sc_in<bool> N, S, W, E; //Sensors detecing cars
+  sc_out<bool> light_N, light_S, light_W,light_E;
 
-  SC_HAS_PROCESS(Counter);
-  Counter(sc_module_name name, int start = 0);
-  void count_method();
-  void event_trigger_thread();
+  SC_HAS_PROCESS(Traffic);
+  Traffic(sc_module_name name);
+
+  void Traffic::car_arriving();
 };
 
 #endif // COUNTER_H
