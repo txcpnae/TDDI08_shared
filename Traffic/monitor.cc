@@ -24,7 +24,7 @@ Monitor::~Monitor()
 
 void Monitor::monitor_method()
 {
-  *out << "CARS:(" << sc_time_stamp() << ") = ";
+  *out << "Cars  (" << sc_time_stamp() << ") = ";
   for (int i{}; i < 4; i++)
   {
       *out << cars[i] << ", ";
@@ -35,7 +35,7 @@ void Monitor::monitor_method()
   {
       *out << lights[i] << ", ";
   }
-  *out << '\n';
+  *out << '\n' << std::endl;
 }
 
 void Monitor::event_trigger_thread()

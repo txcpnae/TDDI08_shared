@@ -33,30 +33,16 @@ void Generator::generate_thread()
     {
         wait(1, SC_SEC);     // Generate new inputs every second.
         *in >> n[0] >> n[1] >> n[2] >> n[3]; // Read from the input file.
-        std::cout << "Done Reading inputs\n";
+
         for(int i{}; i<4; i++)
         {
+            cars[i]->write(cars[i]->read() + n[i]);
             if(lights[i] == true)
             {
-                //wait()
+                //wait() to simulate car driving through intersection
                 cars[i] = false;
             }
-            cars[i]->write(cars[i]->read() + n[i]);
+
         }
-        std::cout << "Done Writing inputs\n";
     }
 }
-
-/*void Generator::drive()
-{
-    for(int i{}; i<4;i++)
-    {
-        if(lights[i] == true)
-        {
-            //wait()
-            cars[i] = false;
-        }
-
-    }
-
-}*/
