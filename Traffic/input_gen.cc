@@ -10,7 +10,7 @@ Generator::Generator(sc_module_name name, char *datafile)
   assert(*in);                 // Check that everything is OK.
 
   SC_THREAD(generate_thread);
-  sensitive << lights[0] << lights[1] << lights[2] << lights[3];
+  //sensitive << lights[0] << lights[1] << lights[2] << lights[3];
   cars[0].initialize(0);
   cars[1].initialize(0);
   cars[2].initialize(0);
@@ -40,7 +40,7 @@ void Generator::generate_thread()
             if(lights[i] == true)
             {
                 //wait() to simulate car driving through intersection
-                cars[i] = false;
+                cars[i]->write(false);
             }
 
         }
