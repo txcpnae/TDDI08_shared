@@ -19,26 +19,17 @@ Lights(2 s) = 0, 0, 0, 0,
 Cars  (3 s) = 0, 0, 0, 0, 
 Lights(3 s) = 0, 0, 0, 0, 
 
-Cars  (3 s) = 1, 0, 1, 0, 
-Lights(3 s) = 0, 0, 0, 0, 
-
-Cars  (3 s) = 1, 0, 1, 0, 
-Lights(3 s) = 0, 0, 1, 0, 
-
-Cars  (4 s) = 1, 0, 1, 0, 
-Lights(4 s) = 0, 0, 1, 0, 
-
-Cars  (4 s) = 1, 0, 0, 0, 
-Lights(4 s) = 0, 0, 1, 0, 
-
-Cars  (4 s) = 1, 0, 0, 0, 
+Cars  (4 s) = 0, 0, 0, 0, 
 Lights(4 s) = 0, 0, 0, 0, 
 
-Cars  (5 s) = 1, 0, 0, 0, 
-Lights(5 s) = 0, 0, 0, 0, 
+Cars  (4 s) = 1, 1, 1, 1, 
+Lights(4 s) = 0, 0, 0, 0, 
 
-Cars  (5 s) = 1, 1, 0, 0, 
-Lights(5 s) = 0, 0, 0, 0, 
+Cars  (4 s) = 1, 1, 1, 1, 
+Lights(4 s) = 0, 0, 1, 1, 
+
+Cars  (5 s) = 1, 1, 1, 1, 
+Lights(5 s) = 0, 0, 1, 1, 
 
 Cars  (5 s) = 1, 1, 0, 0, 
 Lights(5 s) = 1, 1, 0, 0, 
@@ -46,20 +37,44 @@ Lights(5 s) = 1, 1, 0, 0,
 Cars  (6 s) = 1, 1, 0, 0, 
 Lights(6 s) = 1, 1, 0, 0, 
 
-Cars  (6 s) = 0, 0, 0, 0, 
+Cars  (6 s) = 0, 0, 1, 1, 
 Lights(6 s) = 1, 1, 0, 0, 
 
-Cars  (6 s) = 0, 0, 0, 0, 
-Lights(6 s) = 0, 0, 0, 0, 
+Cars  (6 s) = 0, 0, 1, 1, 
+Lights(6 s) = 0, 0, 1, 1, 
 
-Cars  (7 s) = 0, 0, 0, 0, 
-Lights(7 s) = 0, 0, 0, 0, 
+Cars  (7 s) = 0, 0, 1, 1, 
+Lights(7 s) = 0, 0, 1, 1, 
+
+Cars  (7 s) = 1, 0, 0, 0, 
+Lights(7 s) = 0, 0, 1, 1, 
+
+Cars  (7 s) = 1, 0, 0, 0, 
+Lights(7 s) = 1, 0, 0, 0, 
+
+Cars  (8 s) = 1, 0, 0, 0, 
+Lights(8 s) = 1, 0, 0, 0, 
+
+Cars  (8 s) = 0, 0, 0, 0, 
+Lights(8 s) = 1, 0, 0, 0, 
 
 Cars  (8 s) = 0, 0, 0, 0, 
 Lights(8 s) = 0, 0, 0, 0, 
 
 Cars  (9 s) = 0, 0, 0, 0, 
 Lights(9 s) = 0, 0, 0, 0, 
+
+Cars  (9 s) = 1, 0, 0, 0, 
+Lights(9 s) = 0, 0, 0, 0, 
+
+Cars  (9 s) = 1, 0, 0, 0, 
+Lights(9 s) = 1, 0, 0, 0, 
+
+Cars  (10 s) = 1, 0, 0, 0, 
+Lights(10 s) = 1, 0, 0, 0, 
+
+Cars  (10 s) = 0, 0, 0, 0, 
+Lights(10 s) = 1, 0, 0, 0, 
 
 Cars  (10 s) = 0, 0, 0, 0, 
 Lights(10 s) = 0, 0, 0, 0, 
@@ -105,19 +120,4 @@ Lights(23 s) = 0, 0, 0, 0,
 
 Cars  (24 s) = 0, 0, 0, 0, 
 Lights(24 s) = 0, 0, 0, 0, 
-
-Cars  (25 s) = 0, 0, 0, 0, 
-Lights(25 s) = 0, 0, 0, 0, 
-
-Cars  (26 s) = 0, 0, 0, 0, 
-Lights(26 s) = 0, 0, 0, 0, 
-
-Cars  (27 s) = 0, 0, 0, 0, 
-Lights(27 s) = 0, 0, 0, 0, 
-
-Cars  (28 s) = 0, 0, 0, 0, 
-Lights(28 s) = 0, 0, 0, 0, 
-
-Cars  (29 s) = 0, 0, 0, 0, 
-Lights(29 s) = 0, 0, 0, 0, 
 

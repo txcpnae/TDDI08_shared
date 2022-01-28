@@ -15,7 +15,6 @@ SC_MODULE(Generator) {
   ~Generator();
 
   void generate_thread();
-  //void drive();
   ifstream *in;
 };
 
