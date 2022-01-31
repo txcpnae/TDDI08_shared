@@ -40,6 +40,7 @@ void Monitor::monitor_method()
   {
       *out << "ERROR";
   }
+  assert( !((lights[0] || lights[1]) && (lights[2] || lights[3] )) );
   *out << '\n' << std::endl;
 }
 
