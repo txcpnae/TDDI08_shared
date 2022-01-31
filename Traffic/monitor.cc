@@ -35,15 +35,18 @@ void Monitor::monitor_method()
   {
       *out << lights[i] << ", ";
   }
+
+  if( (lights[0] || lights[1]) && (lights[2] || lights[3] ) ) //checks if NS are on at the same time as WE
+  {
+      *out << "ERROR";
+  }
   *out << '\n' << std::endl;
 }
 
 void Monitor::event_trigger_thread()
 {
-    //cout << "Init\n";
     for (;;) {               // Loop infinitely.
     wait(1, SC_SEC);       // Wait one second.
-    //cout << "Done waiting\n";
     count_event.notify();  // Trigger count_method.
   }
 }
