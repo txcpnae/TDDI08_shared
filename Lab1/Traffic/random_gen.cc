@@ -11,7 +11,7 @@ int main(int argc, char **argv)
     int rows = atof(argv[1]);
 
     ofstream out;
-    out.open( "input/random_input.txt");
+    out.open( "input/random.txt");
 
     bool rand_val;
     for(int i{}; i<rows; i++)
