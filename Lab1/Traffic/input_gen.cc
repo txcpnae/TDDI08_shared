@@ -32,11 +32,12 @@ void Generator::generate_thread()
 
         for(int i{}; i<4; i++)
         {
-            cars[i]->write(cars[i]->read() + n[i]);
+            //cars[i]->write(cars[i]->read() + n[i]);
+            cars[i]->write(n[i]);
             if(lights[i] == true)
             {
                 //would be cool to add a wait() to simulate time for a car to drive through intersection
-                cars[i]->write(false);
+                //cars[i]->write(false);
             }
 
         }
