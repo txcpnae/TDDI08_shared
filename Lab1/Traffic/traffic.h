@@ -14,7 +14,7 @@ SC_MODULE(Traffic) {
 
   void turn_on_lights();
 
-  void trigger_timer(); //checks inputs every 100ms
+  void trigger_timer(); //forces check every 5 seconds to prevent gridlock
 };
 
 #endif // Traffic
