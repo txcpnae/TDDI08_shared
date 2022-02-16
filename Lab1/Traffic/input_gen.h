@@ -8,7 +8,6 @@ using std::ifstream;
 
 SC_MODULE(Generator) {
   sc_out<bool> cars[4];
-  sc_in<bool> lights[4];
 
   SC_HAS_PROCESS(Generator);
   Generator(sc_module_name name, char *datafile);

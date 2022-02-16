@@ -27,7 +27,7 @@ int sc_main(int argc, char **argv)
   // Connect the channels to the ports.
   traffic(Sig_cars[0], Sig_cars[1],Sig_cars[2],Sig_cars[3], Sig_lights[0], Sig_lights[1],Sig_lights[2],Sig_lights[3]);
 
-  gen(Sig_cars[0], Sig_cars[1],Sig_cars[2],Sig_cars[3] , Sig_lights[0], Sig_lights[1],Sig_lights[2],Sig_lights[3]);
+  gen(Sig_cars[0], Sig_cars[1],Sig_cars[2],Sig_cars[3] );
 
   monitor(Sig_cars[0], Sig_cars[1],Sig_cars[2],Sig_cars[3], Sig_lights[0], Sig_lights[1],Sig_lights[2],Sig_lights[3]);
 
