@@ -22,7 +22,7 @@ void Traffic::trigger_timer()
     {
     wait(5, SC_SEC);
     trigger_event.notify();
-    timer = !timer;  // boolean timer to prevent N/S direction having constant priority
+    timer = !timer;  // change boolean timer to change priority periodically
     }
 }
 void Traffic::turn_on_lights()
@@ -36,17 +36,17 @@ void Traffic::turn_on_lights()
     lights[2] = false;
     lights[3] = false;
 
-    if( !(W || E) )  //fast-track as to not slow down if coast is clear
+    if( !(W || E) )  //let cars through for N and S, if no cars at W or E
     {
         lights[0] = N;
         lights[1] = S;
     }
-    else if( !(N || S) )  //fast-track as to not slow down if coast is clear
+    else if( !(N || S) )  //let cars through for W and E, if no cars at N or S
     {
         lights[2] = W;
         lights[3] = E;
     }
-    else if( timer ) //to prevent gridlock in direction
+    else if( timer ) 
     {
         lights[0] = N;
         lights[1] = S;
