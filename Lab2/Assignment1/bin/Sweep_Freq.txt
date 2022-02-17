@@ -1,0 +1,12 @@
+Frequency divider = 8
+Execution time: 12236965 ns
+Total:        32608495.84 [pJ] typ
+
+Frequency divider = 9
+Execution time: 13766585 ns
+Total:        32608495.84 [pJ] typ
+
+Frequency divider = 10
+Execution time: 15296205 ns
+Total:        32608495.84 [pJ] typ
+
