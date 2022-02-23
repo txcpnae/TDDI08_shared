@@ -1,3 +1,15 @@
+Frequency divider = 5
+Execution time: 7841230 ns
+Total:        32692457.75 [pJ] typ
+
+Frequency divider = 6
+Execution time: 9177725 ns
+Total:        32608495.84 [pJ] typ
+
+Frequency divider = 7
+Execution time: 10707345 ns
+Total:        32608495.84 [pJ] typ
+
 Frequency divider = 8
 Execution time: 12236965 ns
 Total:        32608495.84 [pJ] typ
@@ -9,4 +21,24 @@ Total:        32608495.84 [pJ] typ
 Frequency divider = 10
 Execution time: 15296205 ns
 Total:        32608495.84 [pJ] typ
+
+Frequency divider = 11
+Execution time: 16400950 ns
+Total:        32524533.94 [pJ] typ
+
+Frequency divider = 12
+Execution time: 17891945 ns
+Total:        32524533.94 [pJ] typ
+
+Frequency divider = 13
+Execution time: 19382940 ns
+Total:        32524533.94 [pJ] typ
+
+Frequency divider = 14
+Execution time: 20873935 ns
+Total:        32524533.94 [pJ] typ
+
+Frequency divider = 15
+Execution time: 22364930 ns
+Total:        32524533.94 [pJ] typ
 

@@ -1,0 +1,10 @@
+
+FREQUENCY:
+we want a low enough frequency,
+ but still keep the execution time withing 20 ms (20 000 000 ns)
+
+F = 12
+DS = 10
+DT = 2
+IS = 9
+IT = 1
