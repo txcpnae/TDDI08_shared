@@ -9,27 +9,7 @@ Execution time: 19316885 ns
 Total:        19693526.03 [pJ] typ
 
 Data Cache associativy = 1
-Inst Cache associativy = 3
-Execution time: 19316885 ns
-Total:        19693526.03 [pJ] typ
-
-Data Cache associativy = 1
 Inst Cache associativy = 4
-Execution time: 19281185 ns
-Total:        21303984.61 [pJ] typ
-
-Data Cache associativy = 1
-Inst Cache associativy = 5
-Execution time: 19281185 ns
-Total:        21303984.61 [pJ] typ
-
-Data Cache associativy = 1
-Inst Cache associativy = 6
-Execution time: 19281185 ns
-Total:        21303984.61 [pJ] typ
-
-Data Cache associativy = 1
-Inst Cache associativy = 7
 Execution time: 19281185 ns
 Total:        21303984.61 [pJ] typ
 
@@ -49,71 +29,11 @@ Execution time: 18596765 ns
 Total:        19103888.81 [pJ] typ
 
 Data Cache associativy = 2
-Inst Cache associativy = 3
-Execution time: 18596765 ns
-Total:        19103888.81 [pJ] typ
-
-Data Cache associativy = 2
 Inst Cache associativy = 4
 Execution time: 18561065 ns
 Total:        20714347.39 [pJ] typ
 
 Data Cache associativy = 2
-Inst Cache associativy = 5
-Execution time: 18561065 ns
-Total:        20714347.39 [pJ] typ
-
-Data Cache associativy = 2
-Inst Cache associativy = 6
-Execution time: 18561065 ns
-Total:        20714347.39 [pJ] typ
-
-Data Cache associativy = 2
-Inst Cache associativy = 7
-Execution time: 18561065 ns
-Total:        20714347.39 [pJ] typ
-
-Data Cache associativy = 2
-Inst Cache associativy = 8
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 1
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 2
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 3
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 4
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 5
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 6
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
-Inst Cache associativy = 7
-Execution time: 18676325 ns
-Total:        24216121.68 [pJ] typ
-
-Data Cache associativy = 3
 Inst Cache associativy = 8
 Execution time: 18676325 ns
 Total:        24216121.68 [pJ] typ
@@ -129,151 +49,11 @@ Execution time: 18612065 ns
 Total:        19268915.69 [pJ] typ
 
 Data Cache associativy = 4
-Inst Cache associativy = 3
-Execution time: 18612065 ns
-Total:        19268915.69 [pJ] typ
-
-Data Cache associativy = 4
 Inst Cache associativy = 4
 Execution time: 18576365 ns
 Total:        20879374.27 [pJ] typ
 
 Data Cache associativy = 4
-Inst Cache associativy = 5
-Execution time: 18576365 ns
-Total:        20879374.27 [pJ] typ
-
-Data Cache associativy = 4
-Inst Cache associativy = 6
-Execution time: 18576365 ns
-Total:        20879374.27 [pJ] typ
-
-Data Cache associativy = 4
-Inst Cache associativy = 7
-Execution time: 18576365 ns
-Total:        20879374.27 [pJ] typ
-
-Data Cache associativy = 4
-Inst Cache associativy = 8
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 1
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 2
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 3
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 4
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 5
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 6
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 7
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 5
-Inst Cache associativy = 8
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 1
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 2
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 3
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 4
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 5
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 6
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 7
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 6
-Inst Cache associativy = 8
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 1
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 2
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 3
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 4
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 5
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 6
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
-Inst Cache associativy = 7
-Execution time: 18691625 ns
-Total:        24381148.56 [pJ] typ
-
-Data Cache associativy = 7
 Inst Cache associativy = 8
 Execution time: 18691625 ns
 Total:        24381148.56 [pJ] typ
@@ -289,27 +69,7 @@ Execution time: 18628385 ns
 Total:        19596889.90 [pJ] typ
 
 Data Cache associativy = 8
-Inst Cache associativy = 3
-Execution time: 18628385 ns
-Total:        19596889.90 [pJ] typ
-
-Data Cache associativy = 8
 Inst Cache associativy = 4
-Execution time: 18592685 ns
-Total:        21207348.48 [pJ] typ
-
-Data Cache associativy = 8
-Inst Cache associativy = 5
-Execution time: 18592685 ns
-Total:        21207348.48 [pJ] typ
-
-Data Cache associativy = 8
-Inst Cache associativy = 6
-Execution time: 18592685 ns
-Total:        21207348.48 [pJ] typ
-
-Data Cache associativy = 8
-Inst Cache associativy = 7
 Execution time: 18592685 ns
 Total:        21207348.48 [pJ] typ
 
