@@ -1,0 +1,224 @@
+Frequency = 2
+Master clock dividers set to: 2 1 1
+Bus busy                      = 988834 master system cycles (37.39% of 2644612)
+Bus transferring data         = 351775 master system cycles (13.30% of 2644612, 35.57% of 988834)
+Bus Accesses                  = 413313 (236684 SR, 165574 SW, 11055 BR, 0 BW: 247739 R, 165574 W)
+Bus Accesses                  = 106439 (35316 SR, 66994 SW, 4129 BR, 0 BW: 39445 R, 66994 W)
+Bus Accesses                  = 127732 (73336 SR, 53187 SW, 1209 BR, 0 BW: 74545 R, 53187 W)
+Bus Accesses                  = 179142 (128032 SR, 45393 SW, 5717 BR, 0 BW: 133749 R, 45393 W)
+Frequency = 3
+Master clock dividers set to: 3 1 1
+Bus busy                      = 1125218 master system cycles (34.12% of 3297390)
+Bus transferring data         = 394970 master system cycles (11.98% of 3297390, 35.10% of 1125218)
+Bus Accesses                  = 478274 (301645 SR, 165574 SW, 11055 BR, 0 BW: 312700 R, 165574 W)
+Bus Accesses                  = 99406 (28283 SR, 66994 SW, 4129 BR, 0 BW: 32412 R, 66994 W)
+Bus Accesses                  = 155111 (100715 SR, 53187 SW, 1209 BR, 0 BW: 101924 R, 53187 W)
+Bus Accesses                  = 223757 (172647 SR, 45393 SW, 5717 BR, 0 BW: 178364 R, 45393 W)
+Frequency = 3
+Master clock dividers set to: 3 2 2
+Bus busy                      = 883464 master system cycles (20.39% of 4332089)
+Bus transferring data         = 308804 master system cycles (7.13% of 4332089, 34.95% of 883464)
+Bus Accesses                  = 366017 (189388 SR, 165574 SW, 11055 BR, 0 BW: 200443 R, 165574 W)
+Bus Accesses                  = 117654 (46531 SR, 66994 SW, 4129 BR, 0 BW: 50660 R, 66994 W)
+Bus Accesses                  = 106778 (52382 SR, 53187 SW, 1209 BR, 0 BW: 53591 R, 53187 W)
+Bus Accesses                  = 141585 (90475 SR, 45393 SW, 5717 BR, 0 BW: 96192 R, 45393 W)
+Frequency = 4
+Master clock dividers set to: 4 1 1
+Bus busy                      = 1272747 master system cycles (32.20% of 3952638)
+Bus transferring data         = 443848 master system cycles (11.23% of 3952638, 34.87% of 1272747)
+Bus Accesses                  = 546927 (370298 SR, 165574 SW, 11055 BR, 0 BW: 381353 R, 165574 W)
+Bus Accesses                  = 95456 (24333 SR, 66994 SW, 4129 BR, 0 BW: 28462 R, 66994 W)
+Bus Accesses                  = 182739 (128343 SR, 53187 SW, 1209 BR, 0 BW: 129552 R, 53187 W)
+Bus Accesses                  = 268732 (217622 SR, 45393 SW, 5717 BR, 0 BW: 223339 R, 45393 W)
+Frequency = 4
+Master clock dividers set to: 4 2 2
+Bus busy                      = 925268 master system cycles (18.55% of 4988308)
+Bus transferring data         = 321797 master system cycles (6.45% of 4988308, 34.78% of 925268)
+Bus Accesses                  = 387859 (211230 SR, 165574 SW, 11055 BR, 0 BW: 222285 R, 165574 W)
+Bus Accesses                  = 109679 (38556 SR, 66994 SW, 4129 BR, 0 BW: 42685 R, 66994 W)
+Bus Accesses                  = 118101 (63705 SR, 53187 SW, 1209 BR, 0 BW: 64914 R, 53187 W)
+Bus Accesses                  = 160079 (108969 SR, 45393 SW, 5717 BR, 0 BW: 114686 R, 45393 W)
+Frequency = 4
+Master clock dividers set to: 4 3 3
+Bus busy                      = 889753 master system cycles (14.89% of 5975466)
+Bus transferring data         = 309676 master system cycles (5.18% of 5975466, 34.80% of 889753)
+Bus Accesses                  = 363975 (187346 SR, 165574 SW, 11055 BR, 0 BW: 198401 R, 165574 W)
+Bus Accesses                  = 121461 (50338 SR, 66994 SW, 4129 BR, 0 BW: 54467 R, 66994 W)
+Bus Accesses                  = 104321 (49925 SR, 53187 SW, 1209 BR, 0 BW: 51134 R, 53187 W)
+Bus Accesses                  = 138193 (87083 SR, 45393 SW, 5717 BR, 0 BW: 92800 R, 45393 W)
+Frequency = 5
+Master clock dividers set to: 5 1 1
+Bus busy                      = 1433431 master system cycles (30.97% of 4629179)
+Bus transferring data         = 497052 master system cycles (10.74% of 4629179, 34.68% of 1433431)
+Bus Accesses                  = 618251 (441622 SR, 165574 SW, 11055 BR, 0 BW: 452677 R, 165574 W)
+Bus Accesses                  = 92709 (21586 SR, 66994 SW, 4129 BR, 0 BW: 25715 R, 66994 W)
+Bus Accesses                  = 210875 (156479 SR, 53187 SW, 1209 BR, 0 BW: 157688 R, 53187 W)
+Bus Accesses                  = 314667 (263557 SR, 45393 SW, 5717 BR, 0 BW: 269274 R, 45393 W)
+Frequency = 5
+Master clock dividers set to: 5 2 2
+Bus busy                      = 974972 master system cycles (17.20% of 5669714)
+Bus transferring data         = 337924 master system cycles (5.96% of 5669714, 34.66% of 974972)
+Bus Accesses                  = 413357 (236728 SR, 165574 SW, 11055 BR, 0 BW: 247783 R, 165574 W)
+Bus Accesses                  = 104098 (32975 SR, 66994 SW, 4129 BR, 0 BW: 37104 R, 66994 W)
+Bus Accesses                  = 129934 (75538 SR, 53187 SW, 1209 BR, 0 BW: 76747 R, 53187 W)
+Bus Accesses                  = 179325 (128215 SR, 45393 SW, 5717 BR, 0 BW: 133932 R, 45393 W)
+Frequency = 5
+Master clock dividers set to: 5 3 3
+Bus busy                      = 913950 master system cycles (13.73% of 6658179)
+Bus transferring data         = 317481 master system cycles (4.77% of 6658179, 34.74% of 913950)
+Bus Accesses                  = 378279 (201650 SR, 165574 SW, 11055 BR, 0 BW: 212705 R, 165574 W)
+Bus Accesses                  = 113522 (42399 SR, 66994 SW, 4129 BR, 0 BW: 46528 R, 66994 W)
+Bus Accesses                  = 112779 (58383 SR, 53187 SW, 1209 BR, 0 BW: 59592 R, 53187 W)
+Bus Accesses                  = 151978 (100868 SR, 45393 SW, 5717 BR, 0 BW: 106585 R, 45393 W)
+Frequency = 5
+Master clock dividers set to: 5 4 4
+Bus busy                      = 892651 master system cycles (11.67% of 7649075)
+Bus transferring data         = 310337 master system cycles (4.06% of 7649075, 34.77% of 892651)
+Bus Accesses                  = 362924 (186295 SR, 165574 SW, 11055 BR, 0 BW: 197350 R, 165574 W)
+Bus Accesses                  = 122977 (51854 SR, 66994 SW, 4129 BR, 0 BW: 55983 R, 66994 W)
+Bus Accesses                  = 103243 (48847 SR, 53187 SW, 1209 BR, 0 BW: 50056 R, 53187 W)
+Bus Accesses                  = 136704 (85594 SR, 45393 SW, 5717 BR, 0 BW: 91311 R, 45393 W)
+Frequency = 6
+Master clock dividers set to: 6 1 1
+Bus busy                      = 1593189 master system cycles (30.26% of 5265341)
+Bus transferring data         = 548967 master system cycles (10.43% of 5265341, 34.46% of 1593189)
+Bus Accesses                  = 687348 (510719 SR, 165574 SW, 11055 BR, 0 BW: 521774 R, 165574 W)
+Bus Accesses                  = 91214 (20091 SR, 66994 SW, 4129 BR, 0 BW: 24220 R, 66994 W)
+Bus Accesses                  = 237762 (183366 SR, 53187 SW, 1209 BR, 0 BW: 184575 R, 53187 W)
+Bus Accesses                  = 358372 (307262 SR, 45393 SW, 5717 BR, 0 BW: 312979 R, 45393 W)
+Frequency = 6
+Master clock dividers set to: 6 2 2
+Bus busy                      = 1027638 master system cycles (16.31% of 6299640)
+Bus transferring data         = 355303 master system cycles (5.64% of 6299640, 34.57% of 1027638)
+Bus Accesses                  = 438903 (262274 SR, 165574 SW, 11055 BR, 0 BW: 273329 R, 165574 W)
+Bus Accesses                  = 101090 (29967 SR, 66994 SW, 4129 BR, 0 BW: 34096 R, 66994 W)
+Bus Accesses                  = 140777 (86381 SR, 53187 SW, 1209 BR, 0 BW: 87590 R, 53187 W)
+Bus Accesses                  = 197036 (145926 SR, 45393 SW, 5717 BR, 0 BW: 151643 R, 45393 W)
+Frequency = 6
+Master clock dividers set to: 6 3 3
+Bus busy                      = 944615 master system cycles (12.96% of 7289202)
+Bus transferring data         = 327591 master system cycles (4.49% of 7289202, 34.68% of 944615)
+Bus Accesses                  = 394539 (217910 SR, 165574 SW, 11055 BR, 0 BW: 228965 R, 165574 W)
+Bus Accesses                  = 109250 (38127 SR, 66994 SW, 4129 BR, 0 BW: 42256 R, 66994 W)
+Bus Accesses                  = 120575 (66179 SR, 53187 SW, 1209 BR, 0 BW: 67388 R, 53187 W)
+Bus Accesses                  = 164714 (113604 SR, 45393 SW, 5717 BR, 0 BW: 119321 R, 45393 W)
+Frequency = 6
+Master clock dividers set to: 6 4 4
+Bus busy                      = 911284 master system cycles (11.01% of 8278808)
+Bus transferring data         = 315528 master system cycles (3.81% of 8278808, 34.62% of 911284)
+Bus Accesses                  = 373378 (196749 SR, 165574 SW, 11055 BR, 0 BW: 207804 R, 165574 W)
+Bus Accesses                  = 117445 (46322 SR, 66994 SW, 4129 BR, 0 BW: 50451 R, 66994 W)
+Bus Accesses                  = 109304 (54908 SR, 53187 SW, 1209 BR, 0 BW: 56117 R, 53187 W)
+Bus Accesses                  = 146629 (95519 SR, 45393 SW, 5717 BR, 0 BW: 101236 R, 45393 W)
+Frequency = 6
+Master clock dividers set to: 6 5 5
+Bus busy                      = 893864 master system cycles (9.58% of 9331794)
+Bus transferring data         = 310097 master system cycles (3.32% of 9331794, 34.69% of 893864)
+Bus Accesses                  = 361860 (185231 SR, 165574 SW, 11055 BR, 0 BW: 196286 R, 165574 W)
+Bus Accesses                  = 126387 (55264 SR, 66994 SW, 4129 BR, 0 BW: 59393 R, 66994 W)
+Bus Accesses                  = 101498 (47102 SR, 53187 SW, 1209 BR, 0 BW: 48311 R, 53187 W)
+Bus Accesses                  = 133975 (82865 SR, 45393 SW, 5717 BR, 0 BW: 88582 R, 45393 W)
+Frequency = 7
+Master clock dividers set to: 7 1 1
+Bus busy                      = 1749707 master system cycles (29.50% of 5931153)
+Bus transferring data         = 602172 master system cycles (10.15% of 5931153, 34.42% of 1749707)
+Bus Accesses                  = 758579 (581950 SR, 165574 SW, 11055 BR, 0 BW: 593005 R, 165574 W)
+Bus Accesses                  = 89863 (18740 SR, 66994 SW, 4129 BR, 0 BW: 22869 R, 66994 W)
+Bus Accesses                  = 265336 (210940 SR, 53187 SW, 1209 BR, 0 BW: 212149 R, 53187 W)
+Bus Accesses                  = 403380 (352270 SR, 45393 SW, 5717 BR, 0 BW: 357987 R, 45393 W)
+Frequency = 7
+Master clock dividers set to: 7 2 2
+Bus busy                      = 1082997 master system cycles (15.53% of 6971663)
+Bus transferring data         = 375594 master system cycles (5.39% of 6971663, 34.68% of 1082997)
+Bus Accesses                  = 466735 (290106 SR, 165574 SW, 11055 BR, 0 BW: 301161 R, 165574 W)
+Bus Accesses                  = 98322 (27199 SR, 66994 SW, 4129 BR, 0 BW: 31328 R, 66994 W)
+Bus Accesses                  = 152348 (97952 SR, 53187 SW, 1209 BR, 0 BW: 99161 R, 53187 W)
+Bus Accesses                  = 216065 (164955 SR, 45393 SW, 5717 BR, 0 BW: 170672 R, 45393 W)
+Frequency = 7
+Master clock dividers set to: 7 3 3
+Bus busy                      = 982665 master system cycles (12.34% of 7960579)
+Bus transferring data         = 339707 master system cycles (4.27% of 7960579, 34.57% of 982665)
+Bus Accesses                  = 412580 (235951 SR, 165574 SW, 11055 BR, 0 BW: 247006 R, 165574 W)
+Bus Accesses                  = 105325 (34202 SR, 66994 SW, 4129 BR, 0 BW: 38331 R, 66994 W)
+Bus Accesses                  = 128943 (74547 SR, 53187 SW, 1209 BR, 0 BW: 75756 R, 53187 W)
+Bus Accesses                  = 178312 (127202 SR, 45393 SW, 5717 BR, 0 BW: 132919 R, 45393 W)
+Frequency = 7
+Master clock dividers set to: 7 4 4
+Bus busy                      = 931767 master system cycles (10.41% of 8951502)
+Bus transferring data         = 322636 master system cycles (3.60% of 8951502, 34.63% of 931767)
+Bus Accesses                  = 385390 (208761 SR, 165574 SW, 11055 BR, 0 BW: 219816 R, 165574 W)
+Bus Accesses                  = 112348 (41225 SR, 66994 SW, 4129 BR, 0 BW: 45354 R, 66994 W)
+Bus Accesses                  = 115815 (61419 SR, 53187 SW, 1209 BR, 0 BW: 62628 R, 53187 W)
+Bus Accesses                  = 157227 (106117 SR, 45393 SW, 5717 BR, 0 BW: 111834 R, 45393 W)
+Frequency = 7
+Master clock dividers set to: 7 5 5
+Bus busy                      = 904373 master system cycles (9.04% of 10005389)
+Bus transferring data         = 313295 master system cycles (3.13% of 10005389, 34.64% of 904373)
+Bus Accesses                  = 369155 (192526 SR, 165574 SW, 11055 BR, 0 BW: 203581 R, 165574 W)
+Bus Accesses                  = 120002 (48879 SR, 66994 SW, 4129 BR, 0 BW: 53008 R, 66994 W)
+Bus Accesses                  = 106702 (52306 SR, 53187 SW, 1209 BR, 0 BW: 53515 R, 53187 W)
+Bus Accesses                  = 142451 (91341 SR, 45393 SW, 5717 BR, 0 BW: 97058 R, 45393 W)
+Frequency = 7
+Master clock dividers set to: 7 6 6
+Bus busy                      = 899291 master system cycles (8.22% of 10938432)
+Bus transferring data         = 311609 master system cycles (2.85% of 10938432, 34.65% of 899291)
+Bus Accesses                  = 362559 (185930 SR, 165574 SW, 11055 BR, 0 BW: 196985 R, 165574 W)
+Bus Accesses                  = 126427 (55304 SR, 66994 SW, 4129 BR, 0 BW: 59433 R, 66994 W)
+Bus Accesses                  = 101681 (47285 SR, 53187 SW, 1209 BR, 0 BW: 48494 R, 53187 W)
+Bus Accesses                  = 134451 (83341 SR, 45393 SW, 5717 BR, 0 BW: 89058 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 1 1
+Bus busy                      = 1928657 master system cycles (29.20% of 6604910)
+Bus transferring data         = 657486 master system cycles (9.95% of 6604910, 34.09% of 1928657)
+Bus Accesses                  = 832308 (655679 SR, 165574 SW, 11055 BR, 0 BW: 666734 R, 165574 W)
+Bus Accesses                  = 88836 (17713 SR, 66994 SW, 4129 BR, 0 BW: 21842 R, 66994 W)
+Bus Accesses                  = 293742 (239346 SR, 53187 SW, 1209 BR, 0 BW: 240555 R, 53187 W)
+Bus Accesses                  = 449730 (398620 SR, 45393 SW, 5717 BR, 0 BW: 404337 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 2 2
+Bus busy                      = 1154356 master system cycles (15.10% of 7646448)
+Bus transferring data         = 396811 master system cycles (5.19% of 7646448, 34.38% of 1154356)
+Bus Accesses                  = 495404 (318775 SR, 165574 SW, 11055 BR, 0 BW: 329830 R, 165574 W)
+Bus Accesses                  = 96244 (25121 SR, 66994 SW, 4129 BR, 0 BW: 29250 R, 66994 W)
+Bus Accesses                  = 164113 (109717 SR, 53187 SW, 1209 BR, 0 BW: 110926 R, 53187 W)
+Bus Accesses                  = 235047 (183937 SR, 45393 SW, 5717 BR, 0 BW: 189654 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 3 3
+Bus busy                      = 1020401 master system cycles (11.82% of 8634864)
+Bus transferring data         = 351661 master system cycles (4.07% of 8634864, 34.46% of 1020401)
+Bus Accesses                  = 431572 (254943 SR, 165574 SW, 11055 BR, 0 BW: 265998 R, 165574 W)
+Bus Accesses                  = 102369 (31246 SR, 66994 SW, 4129 BR, 0 BW: 35375 R, 66994 W)
+Bus Accesses                  = 137281 (82885 SR, 53187 SW, 1209 BR, 0 BW: 84094 R, 53187 W)
+Bus Accesses                  = 191922 (140812 SR, 45393 SW, 5717 BR, 0 BW: 146529 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 4 4
+Bus busy                      = 957507 master system cycles (9.95% of 9626608)
+Bus transferring data         = 331180 master system cycles (3.44% of 9626608, 34.59% of 957507)
+Bus Accesses                  = 398715 (222086 SR, 165574 SW, 11055 BR, 0 BW: 233141 R, 165574 W)
+Bus Accesses                  = 108526 (37403 SR, 66994 SW, 4129 BR, 0 BW: 41532 R, 66994 W)
+Bus Accesses                  = 122341 (67945 SR, 53187 SW, 1209 BR, 0 BW: 69154 R, 53187 W)
+Bus Accesses                  = 167848 (116738 SR, 45393 SW, 5717 BR, 0 BW: 122455 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 5 5
+Bus busy                      = 914562 master system cycles (8.56% of 10679902)
+Bus transferring data         = 318244 master system cycles (2.98% of 10679902, 34.80% of 914562)
+Bus Accesses                  = 378061 (201432 SR, 165574 SW, 11055 BR, 0 BW: 212487 R, 165574 W)
+Bus Accesses                  = 115212 (44089 SR, 66994 SW, 4129 BR, 0 BW: 48218 R, 66994 W)
+Bus Accesses                  = 111914 (57518 SR, 53187 SW, 1209 BR, 0 BW: 58727 R, 53187 W)
+Bus Accesses                  = 150935 (99825 SR, 45393 SW, 5717 BR, 0 BW: 105542 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 6 6
+Bus busy                      = 909693 master system cycles (7.83% of 11614020)
+Bus transferring data         = 314290 master system cycles (2.71% of 11614020, 34.55% of 909693)
+Bus Accesses                  = 368850 (192221 SR, 165574 SW, 11055 BR, 0 BW: 203276 R, 165574 W)
+Bus Accesses                  = 120841 (49718 SR, 66994 SW, 4129 BR, 0 BW: 53847 R, 66994 W)
+Bus Accesses                  = 106202 (51806 SR, 53187 SW, 1209 BR, 0 BW: 53015 R, 53187 W)
+Bus Accesses                  = 141807 (90697 SR, 45393 SW, 5717 BR, 0 BW: 96414 R, 45393 W)
+Frequency = 8
+Master clock dividers set to: 8 7 7
+Bus busy                      = 899235 master system cycles (7.12% of 12638197)
+Bus transferring data         = 311346 master system cycles (2.46% of 12638197, 34.62% of 899235)
+Bus Accesses                  = 361771 (185142 SR, 165574 SW, 11055 BR, 0 BW: 196197 R, 165574 W)
+Bus Accesses                  = 127307 (56184 SR, 66994 SW, 4129 BR, 0 BW: 60313 R, 66994 W)
+Bus Accesses                  = 100988 (46592 SR, 53187 SW, 1209 BR, 0 BW: 47801 R, 53187 W)
+Bus Accesses                  = 133476 (82366 SR, 45393 SW, 5717 BR, 0 BW: 88083 R, 45393 W)

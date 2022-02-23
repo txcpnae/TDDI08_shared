@@ -1,0 +1,5 @@
+The comparison will include the bus utilization, the overall application runtime, and the system energy consumption
+Bus busy time/transferring data time/accesses shared>queus
+Overall exec time shared>queues
+Total energy consumption shared>queues
+Percentage of bus busy time/transferring time shared<queues
