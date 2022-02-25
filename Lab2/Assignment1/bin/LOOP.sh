@@ -16,21 +16,21 @@ source /courses/TDTS07/sw/mparm/go_mparm_bash.sh
 # done
 
 
-txtfile="Sweep_Cache_Sizes.txt"
-echo "Writing to file:"$txtfile
-
-> $txtfile #clears textfile
-for IS in {8..14}
-do
-    for DS in {8..14}
-    do
-        mpsim.x -w -c1 -F0,12 --ds $DS --dt 1 --is $IS --it 1
-        echo "Inst Cache Size = "$IS >> $txtfile
-        echo "Data Cache Size = "$DS >> $txtfile
-        source SEARCH_STATS.sh >> $txtfile
-        rm stats.txt
-    done
-done
+# txtfile="Sweep_Cache_Sizes.txt"
+# echo "Writing to file:"$txtfile
+#
+# > $txtfile #clears textfile
+# for IS in {8..14}
+# do
+#     for DS in {8..14}
+#     do
+#         mpsim.x -w -c1 -F0,12 --ds $DS --dt 1 --is $IS --it 1
+#         echo "Inst Cache Size = "$IS >> $txtfile
+#         echo "Data Cache Size = "$DS >> $txtfile
+#         source SEARCH_STATS.sh >> $txtfile
+#         rm stats.txt
+#     done
+# done
 # txtfile="Sweep_Associativy.txt"
 # echo "Writing to file:"$txtfile
 #
@@ -56,6 +56,50 @@ done
 #     for IS in {9..10}
 #     do
 #         mpsim.x -w -c1 -F0,11 --ds $DS --dt 2 --is $IS --it 1
+#         echo "Data Cache size = "$DS >> $txtfile
+#         echo "Inst Cache size = "$IS >> $txtfile
+#         source SEARCH_STATS.sh >> $txtfile
+#         rm stats.txt
+#     done
+# done
+txtfile="TestF10.txt"
+echo "Writing to file:"$txtfile
+
+for DS in {9..13}
+do
+    for IS in {9..13}
+    do
+        mpsim.x -w -c1 -F0,10 --ds $DS --dt 2 --is $IS --it 1
+        echo "Data Cache size = "$DS >> $txtfile
+        echo "Inst Cache size = "$IS >> $txtfile
+        source SEARCH_STATS.sh >> $txtfile
+        rm stats.txt
+    done
+done
+
+# txtfile="TestF11.txt"
+# echo "Writing to file:"$txtfile
+#
+# for DS in {9..13}
+# do
+#     for IS in {9..13}
+#     do
+#         mpsim.x -w -c1 -F0,11 --ds $DS --dt 2 --is $IS --it 1
+#         echo "Data Cache size = "$DS >> $txtfile
+#         echo "Inst Cache size = "$IS >> $txtfile
+#         source SEARCH_STATS.sh >> $txtfile
+#         rm stats.txt
+#     done
+# done
+#
+# txtfile="TestF12.txt"
+# echo "Writing to file:"$txtfile
+#
+# for DS in {9..13}
+# do
+#     for IS in {9..13}
+#     do
+#         mpsim.x -w -c1 -F0,12 --ds $DS --dt 2 --is $IS --it 1
 #         echo "Data Cache size = "$DS >> $txtfile
 #         echo "Inst Cache size = "$IS >> $txtfile
 #         source SEARCH_STATS.sh >> $txtfile

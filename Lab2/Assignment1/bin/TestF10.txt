@@ -1,0 +1,125 @@
+Data Cache size = 9
+Inst Cache size = 9
+Execution time: 17052105 ns
+Total:        18638464.78 [pJ] typ
+
+Data Cache size = 9
+Inst Cache size = 10
+Execution time: 16891905 ns
+Total:        19383419.04 [pJ] typ
+
+Data Cache size = 9
+Inst Cache size = 11
+Execution time: 16743405 ns
+Total:        21106986.96 [pJ] typ
+
+Data Cache size = 9
+Inst Cache size = 12
+Execution time: 16670505 ns
+Total:        24968125.52 [pJ] typ
+
+Data Cache size = 9
+Inst Cache size = 13
+Execution time: 16585905 ns
+Total:        33804180.00 [pJ] typ
+
+Data Cache size = 10
+Inst Cache size = 9
+Execution time: 16076505 ns
+Total:        17678517.11 [pJ] typ
+
+Data Cache size = 10
+Inst Cache size = 10
+Execution time: 15916305 ns
+Total:        18423471.37 [pJ] typ
+
+Data Cache size = 10
+Inst Cache size = 11
+Execution time: 15767805 ns
+Total:        20147039.29 [pJ] typ
+
+Data Cache size = 10
+Inst Cache size = 12
+Execution time: 15694905 ns
+Total:        24008177.85 [pJ] typ
+
+Data Cache size = 10
+Inst Cache size = 13
+Execution time: 15610305 ns
+Total:        32844232.33 [pJ] typ
+
+Data Cache size = 11
+Inst Cache size = 9
+Execution time: 16032405 ns
+Total:        17768516.81 [pJ] typ
+
+Data Cache size = 11
+Inst Cache size = 10
+Execution time: 15872205 ns
+Total:        18513471.07 [pJ] typ
+
+Data Cache size = 11
+Inst Cache size = 11
+Execution time: 15723705 ns
+Total:        20237038.99 [pJ] typ
+
+Data Cache size = 11
+Inst Cache size = 12
+Execution time: 15650805 ns
+Total:        24098177.55 [pJ] typ
+
+Data Cache size = 11
+Inst Cache size = 13
+Execution time: 15566205 ns
+Total:        32934232.03 [pJ] typ
+
+Data Cache size = 12
+Inst Cache size = 9
+Execution time: 16027005 ns
+Total:        18036689.28 [pJ] typ
+
+Data Cache size = 12
+Inst Cache size = 10
+Execution time: 15866805 ns
+Total:        18781643.54 [pJ] typ
+
+Data Cache size = 12
+Inst Cache size = 11
+Execution time: 15718305 ns
+Total:        20505211.45 [pJ] typ
+
+Data Cache size = 12
+Inst Cache size = 12
+Execution time: 15645405 ns
+Total:        24366350.02 [pJ] typ
+
+Data Cache size = 12
+Inst Cache size = 13
+Execution time: 15560805 ns
+Total:        33202404.49 [pJ] typ
+
+Data Cache size = 13
+Inst Cache size = 9
+Execution time: 16027005 ns
+Total:        18639354.75 [pJ] typ
+
+Data Cache size = 13
+Inst Cache size = 10
+Execution time: 15866805 ns
+Total:        19384309.01 [pJ] typ
+
+Data Cache size = 13
+Inst Cache size = 11
+Execution time: 15718305 ns
+Total:        21107876.92 [pJ] typ
+
+Data Cache size = 13
+Inst Cache size = 12
+Execution time: 15645405 ns
+Total:        24969015.49 [pJ] typ
+
+Data Cache size = 13
+Inst Cache size = 13
+Execution time: 15560805 ns
+Total:        33805069.96 [pJ] typ
+
