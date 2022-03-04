@@ -3,8 +3,10 @@ FREQUENCY:
 we want a low enough frequency,
  but still keep the execution time withing 20 ms (20 000 000 ns)
 
-F = 12
+F = 11
 DS = 10
 DT = 2
 IS = 9
 IT = 1
+Execution time: 17211595 ns
+Total:        17585113.58 [pJ] typ
