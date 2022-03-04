@@ -8,7 +8,7 @@ Limit = 20*ones(1,length(F));
 
 plot(F,T/1e6, F,Limit, 'Linewidth',2)
 xlabel("Frequency Divider") 
-grid on
+grid on; set(gca,'Xtick',5:15)
 ylabel("Time [ms]")
 
 yyaxis right
@@ -16,7 +16,7 @@ plot(F, E/1e6, 'Linewidth', 2)
 ylabel("Energy [microJoule]")
 
 legend(["Total time of execution" "Application time limit" "Total Energy of the system"])
-
+title("Simulation with  DS = 12, DT = 1, IS = 13, IT = 2")
 %% 
 clc; clear variables; close all;
 DATA =  readmatrix("Sweep_Cache_Sizes.txt");
@@ -36,12 +36,12 @@ plot(   DS, M(1,:), ...
 grid on, xlabel("DS = log2(Data Cache Size)")
 ylabel("Energy [microJoule]")
 legend(["IS = 8" "IS = 9" "IS = 10" "IS = 11" "IS = 12" "IS = 13" "IS = 14" ])
-        
+title("Simulation with F = 12, DT = 1, IT = 1")        
 %%
 clc; clear variables; close all;
 DATA =  readmatrix("Sweep_Associativy.txt");
 E = DATA(2:4:end, 2)./1e6; %from PicoJoule to MicroJoule
-M = reshape(E, [4,4])'; %rows are increasing IT
+M = reshape(E, [4,4]); %rows are increasing DT
 
 DTIT = 2.^(0:3);
 plot(DTIT, M(1, :), '-x',...
@@ -51,4 +51,4 @@ plot(DTIT, M(1, :), '-x',...
 grid on, xlabel("Data Cache Associativity (DT)")
 ylabel("Energy [microJoule]")
 legend(["IT = 1" "IT = 2" "IT = 4" "IT = 8"])
-title("Data and Instruction Associativity (DT and IT)")
+title("Simulation with F = 12, DS = 10, IS = 10")
